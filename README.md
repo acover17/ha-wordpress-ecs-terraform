@@ -1,25 +1,6 @@
 High Availability WordPress on ECS Fargate with Terraform
 A production-ready, highly available WordPress deployment on AWS ECS Fargate, provisioned with Terraform, featuring CI/CD integration, security scanning, and cost control.
 
-Table of Contents
-Project Overview
-Key Features
-Architecture Overview
-Prerequisites
-Repository Structure
-Setup Instructions
-AWS Account Setup
-Repository Setup
-Terraform Deployment
-WordPress Configuration
-Usage Guide
-Cost Management
-Monitoring and Logging
-Security Considerations
-Backup & Disaster Recovery
-Contributing Guidelines
-License Information
-Troubleshooting
 Project Overview
 This project provisions a production-grade WordPress deployment on AWS using Amazon ECS with Fargate for containerization, offering high availability across multiple Availability Zones. The entire infrastructure is defined as code using Terraform, enabling repeatable, version-controlled deployments with CI/CD integration via GitHub Actions.
 
